@@ -1,0 +1,36 @@
+.heading{
+    margin: 0px;
+    box-shadow: 3px 3px 3px grey;
+    font-weight: bold;
+    font-size: 26px;
+    width: 100%;
+    font-family: 'Amatic SC', cursive;
+}
+.note{
+    color: black;
+}
+.copy_right_footer
+{
+    text-align: center;
+    width: 100%;
+    line-height: 2.5;
+    bottom: 0;
+    background-color: grey;
+    color: white;
+    position: fixed;
+    font-weight: bold;
+    font-size: 23px;
+    font-family: 'Amatic SC', cursive;
+}
+
+canvas
+{
+    border: 5px solid black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+video 
+{
+    margin-top: -50px;
+}
